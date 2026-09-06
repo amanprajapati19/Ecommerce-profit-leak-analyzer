@@ -73,18 +73,8 @@ The diagnostic page for finding the source of margin loss:
 ```
 E-Commerce-Profit-Leak-Analyzer/
 ├── E-Commerce-Profit-Leak-Analyzer.pbix   # Power BI report file
-├── README.md                              # Project documentation
-└── screenshots/                           # Dashboard preview images
+└── README.md                              # Project documentation
 ```
-
-## 📸 Screenshots
-
-> Add exported screenshots of the two report pages here (Power BI Desktop → File → Export → Export to image, or a simple screen capture) and reference them below:
->
-> ```markdown
-> ![Executive Overview](screenshots/executive-overview.png)
-> ![Profit Leak Detector](screenshots/profit-leak-detector.png)
-> ```
 
 ## 👤 Author
 
